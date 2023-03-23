@@ -1,6 +1,6 @@
 # IMPORT AND EXPORT
 
-### Hello.js
+### component/Hello.js
 
 ```
 import React from 'react'
