@@ -22,7 +22,7 @@ import Hello from './component/Hello';
 function App() {
   return (
     <div className="App">
-      Hello World
+      <Hello />
     </div>
   );
 }
